@@ -1,11 +1,7 @@
-# Draco
-A free PSD & HTML resume template.
-See the demo [here](http://draco.afnizarnur.com/) and download the latest release [here](https://github.com/afnizarnur/draco/releases).
-![Draco](https://cloud.githubusercontent.com/assets/4648648/26038614/72fe3772-3936-11e7-8f88-3781aea67bdc.png)
+# Marcelo Bravari
 
-## License
-<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />
+Ingeniero con vasta trayectoria en cargos ejecutivos en diversos rubros. Amplia experiencia en la formación y administración de equipos de trabajo, desarrollo e implementación de planes comerciales y en la optimización de sistemas de control de gestión y finanzas. Comprobada capacidad de liderar proyectos y conducir equipos de trabajo. Profesional que se ha destacado por sus sólidos conocimientos profesionales y cualidades personales que le han permitido ser designado Líder de equipo, Asesor directo del Mando o ente Coordinador entre diferentes áreas y organismos. Responsable, comprometido, con iniciativa, facilitador, que dado los cargos y trabajos desempeñados, ha probado su alta capacidad profesional
 
-Draco is licensed under Creative Commons [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Which means that you are free to copy and redistribute the material in any medium or format and remix, transform, and build upon the material.
+![C.V.](https://cloud.githubusercontent.com/assets/4648648/26038614/72fe3772-3936-11e7-8f88-3781aea67bdc.png)
 
-This template is designed and developed by Afnizar Nur Ghifari.
+
